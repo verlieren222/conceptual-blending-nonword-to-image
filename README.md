@@ -4,6 +4,6 @@ This is the official repository for the paper accepted at ACM MM 2024 titled "In
 
 ## Supplementary Material
 
-
+[Here](ACMMM2024_supplementary.pdf)
 
 ## Citation / Bibtex
